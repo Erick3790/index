@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+header {
+    background-color: #364;
+    color: green;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 10px;  
+}
+
+#señalamientos {
+   
+}
+
+#limite {
+    background-color: #76D7C4  ; /* Color azul claro */
+     text-align: center;
+}
+
+#Estrechamiento {
+    background-color: #7FB3D5 ; /* Color amarillo claro */
+     text-align: center;
+}
+
+#Estacionamiento {
+    background-color: #7DCEA0 ; /* Color naranja claro */
+ text-align: center;
+}
+
+#calzada {
+    background-color: #D98880; /* Color naranja claro */
+ text-align: center;
+}
+
+#tope {
+    background-color: #5499C7; /* Color verde claro */
+     text-align: center;
+}
+
+#Pendiente {
+    background-color: #EB984E ; /* Color naranja claro */
+     text-align: center;
+}
+
+#curva {
+    background-color: #7FB3D5; /* Color naranja claro */
+     text-align: center;
+}
+
+#resalto {
+    background-color: #F8C471 ; /* Color naranja claro */
+     text-align: center;
+}
+
+#circulacion {
+    background-color: #E74C3C ; /* Color naranja claro */
+     text-align: center;
+}
+
+#continua {
+    background-color: #48C9B0; /* Color naranja claro */
+     text-align: center;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5em 0;
+}
